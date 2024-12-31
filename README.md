@@ -2,6 +2,7 @@ I make dummy tshirts. sharing the designs
 
 | Preview | Name |
 | --- | --- |
+| <img src="https://github.com/user-attachments/assets/601066bd-2d93-4050-926a-9cf19ba3c524" width="400"> | [מסך כחול של מוות](https://github.com/jossef/tshirts/tree/master/bsod) |
 | <img src="https://github.com/user-attachments/assets/4ec1d8bc-7fe9-4532-8a6f-12e54f481ae4" width="400"> | [מוטורסיטי](https://github.com/jossef/tshirts/tree/master/motorcity) |
 | <img src="https://github.com/user-attachments/assets/c03fc6f8-eb95-4034-91f1-e54e6c1e46ed" width="400"> | [מגנזיום](https://github.com/jossef/tshirts/tree/master/salt-bae-chalk) |
 | <img src="https://github.com/user-attachments/assets/9b8d07db-cca9-4838-852b-33f7b41544cd" width="400"> | [לטיסימוס](https://github.com/jossef/tshirts/tree/master/drake-latissimus) |
