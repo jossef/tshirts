@@ -1,8 +1,8 @@
 I make dummy tshirts. sharing the designs
 
-
 | Preview | Name |
 | --- | --- |
+| <img src="https://github.com/user-attachments/assets/fa4deaef-7108-424e-a39b-e63af914f861" width="400"> | [טראמפ מטורף](https://github.com/jossef/tshirts/tree/master/trump-tuna-plotnik) |
 | <img src="https://github.com/user-attachments/assets/461d498a-6ce2-4436-a305-a7b0f22ea3de" width="400"> | [ימית 2000](https://github.com/jossef/tshirts/tree/master/yamit2000) |
 | <img src="https://github.com/user-attachments/assets/cacd2277-843f-4322-a127-ae2c88dec789" width="400"> | [כבישי ישראל](https://github.com/jossef/tshirts/tree/master/israel-roads) |
 | <img src="https://github.com/user-attachments/assets/601066bd-2d93-4050-926a-9cf19ba3c524" width="400"> | [מסך כחול של מוות](https://github.com/jossef/tshirts/tree/master/bsod) |
