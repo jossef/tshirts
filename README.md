@@ -1,8 +1,10 @@
 I make dummy tshirts. sharing the designs
+<img width="1091" height="861" alt="image" src="" />
 
 
 | Preview | Name |
 | --- | --- |
+| <img src="https://github.com/user-attachments/assets/5d153bc3-bc13-4b67-8e76-5ffda4532506" width="400"> | [החליפה של האיומים](https://github.com/jossef/tshirts/tree/master/race-suit) |
 | <img src="https://github.com/user-attachments/assets/64a0da1d-d709-4838-a345-fc1d7e485cd3" width="400"> | [הנוער הנודר והדוקר](https://github.com/jossef/tshirts/tree/master/hanoar-hanoder-vehadoker) |
 | <img src="https://github.com/user-attachments/assets/c59b949c-0d1b-47b1-a970-ef61419a2130" width="400"> | [שציוונו להניף סנאץ](https://github.com/jossef/tshirts/tree/master/snatch) |
 | <img src="https://github.com/user-attachments/assets/bc8629bb-ba68-41f5-a549-8f5d089676a5" width="400"> | [דדליפט פיצה](https://github.com/jossef/tshirts/tree/master/deadlift-pizza) |
